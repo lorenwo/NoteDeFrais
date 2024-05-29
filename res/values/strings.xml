@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FormationApp</string>
+
+    <string name="username_hint">Email</string>
+    <string name="password_hint">Mot de passe</string>
+    <string name="login_button_text">Se connecter</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prénom</string>
+    <string name="register">S\'enrengistrer</string>
+    <string name="email">Email</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <string name="se_connecter">Se connecter</string>
+    <string name="title_activity_list_user">ListUserActivity</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_edit_user">EditUserActivity</string>
+    <string name="update">Modifier</string>
+</resources>
